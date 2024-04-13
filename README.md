@@ -12,5 +12,19 @@ A sleek and responsive sign-up form for adventurers ready to explore the unknown
 
 Explore the form and imagine your next adventure!
 
+## Technologies Used
+- HTML
+- CSS
+
+## Contributing
+Feel free to fork this repository and submit pull requests to contribute to this project. You can also send me a message if you have any questions or would like to discuss the project further.
+
+
+## Contact
+If you have any questions or feedback, please contact me at zagros.jawar@gmail.com
+
+---
+Project by Zagros Jawar
+
 
 
